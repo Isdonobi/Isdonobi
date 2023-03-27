@@ -2,7 +2,7 @@
 
 <h2>Technical Support Engineer Project</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Isdonobi/ActiveDirectoryLab)
 
 
 <h2> 🤳 Connect with me:</h2>
